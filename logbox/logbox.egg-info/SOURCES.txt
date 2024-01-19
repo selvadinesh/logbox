@@ -1,0 +1,7 @@
+LICENSE.txt
+pyproject.toml
+setup.py
+logbox/logbox.egg-info/PKG-INFO
+logbox/logbox.egg-info/SOURCES.txt
+logbox/logbox.egg-info/dependency_links.txt
+logbox/logbox.egg-info/top_level.txt

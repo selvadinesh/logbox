@@ -1,0 +1,7 @@
+setup.py
+logbox/__init__.py
+logbox/main.py
+logbox.egg-info/PKG-INFO
+logbox.egg-info/SOURCES.txt
+logbox.egg-info/dependency_links.txt
+logbox.egg-info/top_level.txt
